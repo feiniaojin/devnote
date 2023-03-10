@@ -11,7 +11,7 @@ hero:
       link: /0/0.0
     - theme: alt
       text: View on GitHub
-      link: https://github.com/feiniaojin/Thinking-in-DDD
+      link: https://github.com/feiniaojin/kaifa
 
 features:
   - title: 准确理解领域驱动设计概念
