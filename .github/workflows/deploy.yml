@@ -24,6 +24,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: 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
+          github_token: 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
           publish_dir: docs/.vitepress/dist
           # cname: example.com # if wanna deploy to custom domain
