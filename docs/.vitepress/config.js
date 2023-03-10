@@ -1,7 +1,7 @@
 export default {
   title: "kaifa",
   description: "开发笔记",
-  base: "/",
+  base: "/kaifa",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
